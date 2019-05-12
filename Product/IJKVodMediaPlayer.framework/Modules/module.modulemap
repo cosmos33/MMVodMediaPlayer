@@ -1,0 +1,6 @@
+framework module IJKVodMediaPlayer {
+  umbrella header "IJKVodMediaPlayer.h"
+
+  export *
+  module * { export * }
+}
