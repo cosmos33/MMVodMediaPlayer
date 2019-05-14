@@ -234,4 +234,8 @@ typedef struct HttpDetecter HttpDetecter;
 
 - (int64_t)getTcpConnectCost;
 
+- (int64_t)getVideoCachedBytes;
+
+- (int64_t)getAudioCachedBytes;
+
 @end
